@@ -1,4 +1,4 @@
-# About his fork
+# About this fork
 [[First, DEMO]](https://s3-us-west-2.amazonaws.com/static-web-project/twentytwenty/index.html)  
 I made this fork of TwentyTwenty to display a map along a picture in order to show easily where it was taken. The map is basically an iframe from another project of mine ([Mapmarker](https://github.com/jonathanlurie/mapmarker)), but you can place whatever you want instead. Just remember an iframe will usually need an explicit css instruction to take as much space as the image:
 
