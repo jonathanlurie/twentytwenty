@@ -231,3 +231,7 @@
 .smoothtransition{
     transition: all 0.6s;
 }
+
+.twentytwenty-handle{
+    transition: all 0.6s;
+}
