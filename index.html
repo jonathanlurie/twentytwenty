@@ -6,15 +6,19 @@
     <link rel="stylesheet" href="css/twentytwenty.css" type="text/css" media="screen" />
 
     <style>
+
     .content{
-        max-width: 80%;
+        max-width: 1000px;
     }
+
 
     .twentytwenty-container iframe{
         border: none;
         width: 100%;
         height: 100%;
     }
+
+
     </style>
 
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
@@ -39,7 +43,7 @@
     // important, we slide the cursor to the right!
     $(window).load(function(){
         $(".twentytwenty-container").twentytwenty({
-            default_offset_pct: 1
+            default_offset_pct: 1.0
         });
 
     });
